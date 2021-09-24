@@ -10,21 +10,14 @@ const settingsData = [
 ];
 
 const recentActivities = [
-  {id: 1, title: 'Pay Rent', desc: 'skk'},
-  {id: 2, title: 'Pay Rent', desc: 'skk'},
-  {id: 3, title: 'Pay Rent', desc: 'skk'},
-  {id: 4, title: 'Pay Rent', desc: 'skk'},
-  {id: 5, title: 'Pay Rent', desc: 'skk'},
-  {id: 6, title: 'Pay Rent', desc: 'skk'},
-  {id: 7, title: 'Pay Rent', desc: 'skk'},
-  {id: 8, title: 'Pay Rent', desc: 'skk'},
-  {id: 9, title: 'Pay Rent', desc: 'skk'},
-  {id: 10, title: 'Pay Rent', desc: 'skk'},
-  {id: 11, title: 'Pay Rent', desc: 'skk'},
-  {id: 12, title: 'Pay Rent', desc: 'skk'},
-  {id: 13, title: 'Pay Rent', desc: 'skk'},
-  {id: 14, title: 'Pay Rent', desc: 'skk'},
-  {id: 15, title: 'Pay Rent', desc: 'skk'},
-  {id: 16, title: 'Pay Rent', desc: 'skk'},
+  {id: 1, title: 'Pay Rent', desc: '25,000 Transferred To Daniel Adeniyi (GTB), 20th Jan'},
+  {id: 2, title: 'Airtime Purchase', desc: '200 MTN for 080136820620'},
+  {id: 5, title: 'Airtime Purchase', desc: '200 MTN for 080136820620'},
+  {id: 6, title: 'GOTV Sub', desc: '2months Classic Bouquet'},
+  {id: 7,  title: 'Airtime Purchase', desc: '200 MTN for 080136820620'},
+  {id: 8, title: 'Utility Payment', desc: '5000 Paid to Ikeja Electric'},
+  {id: 9,  title: 'Airtime Purchase', desc: '250 MTN for 080136820620'},
+  {id: 11, title: 'Airtime Purchase', desc: '1300 MTN for 080136820620'},
+  {id: 13, title: 'School Fee', desc: '100000 paid to Morning Stars School for 1st Term JSS2 School Fee'},
 ];
 export {settingsData, recentActivities};

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601942133491",
+    "project_id": "kolo-money",
+    "storage_bucket": "kolo-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601942133491:android:80ebc84491478e4c610586",
+        "android_client_info": {
+          "package_name": "com.kolomoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601942133491-13o59c0p3akgqk5cthhbpnpum3tcne6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyc1tOEROYTqOqWjB-sw_cQ5lsvzbw24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601942133491-13o59c0p3akgqk5cthhbpnpum3tcne6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
